@@ -1,4 +1,6 @@
 MicroserviceProject/.vs/
-MicroserviceProject/Shared/FreeCourse.Shared/obj/
+Services/Catalog/FreeCourse.Services.Catalog/obj/
 Services/Catalog/FreeCourse.Services.Catalog/bin/
+MicroserviceProject/Shared/FreeCourse.Shared/obj/
 MicroserviceProject/Shared/FreeCourse.Shared/bin/
+MicroserviceProject/.vs/MicroserviceProject/FileContentIndex/
