@@ -24,6 +24,6 @@ namespace FreeCourse.Services.Catalog.Interfaces
           Task<Response<NoContent>> UpdateCourseAsync(CourseUpdateDTO courseUpdateDTO);
 
 
-          Task<Response<NoContent>> DeleteCourseAsync(string id);;
+          Task<Response<NoContent>> DeleteCourseAsync(string id);
     }
 }
